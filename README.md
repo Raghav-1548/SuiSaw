@@ -9,12 +9,12 @@ SuiSaw is a groundbreaking decentralized marketplace that enables AI researchers
 ## Why? 💡
 
 The AI model marketplace is currently fragmented and centralized, leading to:
-- Limited monetization options for AI researchers
-- High platform fees and middlemen
-- Lack of transparency in model usage
-- Complex licensing and usage tracking
-- No standardized payment system
-
+- Limited monetization options for AI researchers.
+- High platform fees and middlemen.
+- Lack of transparency in model usage.
+- Complex licensing and usage tracking.
+- No standardized payment system.
+  
 SuiSaw solves these problems by:
 - Providing direct peer-to-peer model rentals
 - Implementing transparent, blockchain-based tracking

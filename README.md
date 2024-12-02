@@ -1,4 +1,4 @@
-# SuiSaw: Decentralized Open-Source AI Model Marketplace 🚀
+# SuiSaw: Decentralized Open-Source AI Model Marketplace  🚀
 
 > Revolutionizing AI model sharing and monetization through blockchain technology
 
